@@ -15,8 +15,8 @@
 
 <tr>
       <td> 1 </td>
-    <td>Introduction to HTML, CSS, & JavaScript</td>
-    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CD0101EN-SkillsNetwork/labs/Theia%20Labs/02%20-%20HTML5%20Elements/HTML5_Structural_Elements/Unit_Conversion_using_HTML5_Structural_Elements.md.html' target='_blank'> Hands-on Lab: Unit Conversion using HTML5 Structural Elements </a></td>
+    <td>Introduction to Computer Vision and Image Processing</td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CV0101EN-SkillsNetwork/labs/FinalProject-SKO/task4workaround.md.html?origin=www.coursera.org' target='_blank'> Task 4: Test Your Classifier </a></td>
 </tr>
 
 
