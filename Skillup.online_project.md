@@ -22,8 +22,8 @@
 
 <tr>
     <td> 2 </td>
-   <td>Introduction to HTML, CSS, & JavaScript</td>
-    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CD0101EN-SkillsNetwork/labs/Project/practice-project-instructions_version3.md.html' target='_blank'> Hands-On Lab: Simple Interest Calculator </a></td>
+   <td>Building AI Powered Chatbots Without Programming</td>
+    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CB0103EN-SkillsNetwork/labs/Module1/Introduction_of_the_new_experience_on_Watson_Assist.md.html?origin=www.coursera.org' target='_blank'> Hands-on Lab: Create an Instance of New Watson Assistant </a></td>
 </tr>
   
 <tr>
