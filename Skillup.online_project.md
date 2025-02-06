@@ -1,6 +1,6 @@
 
 <h3>DISCLAIMER: </h3>
-<p>  I contributed to these projects as an Author as part of a project team at my previous company SkillUp Online (24.6.21 - 27.6.24) for IBM. <br>
+<p>  I contributed to these projects as an Author/SME as part of a project team at my previous company SkillUp Online for IBM. <br>
   <b> Each of these is a part of the below mentioned IBM Skills Network Online courses & each of these holds an IBM Copyright. </b>
 </p>
 
