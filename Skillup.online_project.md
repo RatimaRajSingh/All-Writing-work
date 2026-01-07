@@ -68,6 +68,17 @@
       <td>Introduction to Web Development with HTML, CSS, JavaScript </td>
     <td>  <a href='https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript/gradedLti/66jln/option-1-ai-graded-submission-and-evaluation' target='_blank'> AI-Graded Submission and Evaluation - MARK Assignment </a></td>
 </tr>
+    <td> 10 </td>
+      <td>Developing AI Applications with Python and Flask </td>
+    <td>  <a href='https://cf-courses-data.static.labs.skills.network/hG6YIBrhsY9nUy58rQKhww/FinalProjectOverview-Mark-v1.md.html?t=1767596400' target='_blank'> Final Project Overview </a></td>
+</tr>
 
+<tr>
+    <td> 11 </td>
+      <td>Developing AI Applications with Python and Flask </td>
+    <td>  <a href='https://cf-courses-data.static.labs.skills.network/Ikq0b5aphFY8ilBIqdwA5A/Final-project-emb-ai-Mark-v1.md.html?t=1767773532' target='_blank'> Final Project: Emotion Detector</a></td>
+</tr>
+
+<tr>
   
 </table>
