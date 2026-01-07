@@ -28,41 +28,46 @@
   
 <tr>
   <td> 3 </td>
-  <td>Building AI Powered Chatbots Without Programming</td>
-  <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CB0103EN-SkillsNetwork/labs/Module2/Lab_2_Create_Intents.md.html?origin=www.coursera.org' target='_blank'> Hands-on Lab: Create Intents </a></td>
+  <td>Intermediate Web and Front-End Development- Final Project Overview and Review Criteria</td>
+  <td>  <a href='https://cf-courses-data.static.labs.skills.network/ddUmbh7W8XY5odKOO5DhJA/01-Overview-Mark-v1.md.html?t=1764062836?origin=www.coursera.org' target='_blank'> Hands-on Lab: Create Intents </a></td>
 </tr>
 
 
 <tr>
     <td> 4 </td>
-   <td> Building AI Powered Chatbots Without Programming </td>
-    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CB0103EN-SkillsNetwork/labs/Module2/Lab_3_Import_Intents.md.html?origin=www.coursera.org'> Hands-on Lab: Import Intents </a></td>
+   <td> Intermediate Web and Front-End Development - Final Project: Interest Rate Calculator </td>
+    <td>  <a href='https://cf-courses-data.static.labs.skills.network/RFCrbxHzdq9Dru5TjJJzuA/02-Instructions-Mark-v1.md.html?t=1764232543'> Hands-on Lab: Import Intents </a></td>
 </tr>
 
 <tr>
     <td> 5 </td>
-      <td>Building AI Powered Chatbots Without Programming</td>
-    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CB0103EN-SkillsNetwork/labs/Module3/Lab_4_Create_Entities.md.html?origin=www.coursera.org' target='_blank'> Hands-on Lab: Create Entities </a></td>
+      <td>Intermediate Web and Front-End Development- AI-Graded Submission and Evaluation - MARK Assignment</td>
+    <td>  <a href='[https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CB0103EN-SkillsNetwork/labs/Module3/Lab_4_Create_Entities.md.html?origin=www.coursera.org'](https://www.coursera.org/learn/intermediate-web-and-front-end-development/gradedLti/dsFMu/option-1-ai-graded-submission-and-evaluation)' target='_blank'> Hands-on Lab: Create Entities </a></td>
 </tr>
 
 <tr>
     <td> 6 </td>
-      <td>Building AI Powered Chatbots Without Programming</td>
-    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CB0103EN-SkillsNetwork/labs/Module6/Lab%2010_%20Explore%20Context%20Variables.md.html?origin=www.coursera.org' target='_blank'> Hands-on Lab: Explore Context Variables </a></td>
+      <td>Introduction to Web Development with HTML, CSS, JavaScript - Final Project Overview and Review Criteria</td>
+    <td>  <a href='https://cf-courses-data.static.labs.skills.network/S9rPVKoUqNSTLRw40WhkDw/Overview-and-review-criteria-Mark-v1.md.html?t=1764063035?origin=www.coursera.org' target='_blank'> Hands-on Lab: Explore Context Variables </a></td>
 </tr>
 
 <tr>
     <td> 7 </td>
-      <td>Building AI Powered Chatbots Without Programming</td>
-    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CB0103EN-SkillsNetwork/labs/Module6/Lab11_MasterSlots.md.html?origin=www.coursera.org' target='_blank'> Hands-on Lab: Master Slots </a></td>
+      <td>Introduction to Web Development with HTML, CSS, JavaScript - Hands-On Lab: Single Page Portfolio Website</td>
+    <td>  <a href='https://cf-courses-data.static.labs.skills.network/kDKa3U9YGnJqA_wa1anFww/Final-project-instructions-Mark-v1.md.html?t=1763101845' target='_blank'> Hands-on Lab: Master Slots </a></td>
 </tr>
 
 <tr>
     <td> 8 </td>
-      <td>Building AI Powered Chatbots Without Programming</td>
-    <td>  <a href='https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CB0103EN-SkillsNetwork/labs/Module7/CB0103_Module7_Lab_13_Get_to_know_the_Analytics_tab.md.html?origin=www.coursera.org' target='_blank'> Hands-on Lab: Get to know the Analyze Tab </a></td>
+      <td>Introduction to Web Development with HTML, CSS, JavaScript - Submission Checklist</td>
+    <td>  <a href='https://cf-courses-data.static.labs.skills.network/3kO3opvwGo0D1M-hB6vWcw/Final-Lab-Checklist-Mark-v1.md.html?t=1762848763?origin=www.coursera.org' target='_blank'> Hands-on Lab: Get to know the Analyze Tab </a></td>
 </tr>
 
+<tr>
+    <td> 9 </td>
+      <td>Introduction to Web Development with HTML, CSS, JavaScript - AI-Graded Submission and Evaluation - MARK Assignment</td>
+    <td>  <a href='https://www.coursera.org/learn/introduction-to-web-development-with-html-css-javacript/gradedLti/66jln/option-1-ai-graded-submission-and-evaluation' target='_blank'> Hands-on Lab: Get to know the Analyze Tab </a></td>
+</tr>
 
   
 </table>
